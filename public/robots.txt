@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://omnicnutrition.com
+
+# Sitemaps
+Sitemap: https://omnicnutrition.com/sitemap.xml
